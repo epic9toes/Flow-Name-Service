@@ -1,0 +1,9 @@
+ Version warning: a new version of Flow CLI is available (v0.41.2).
+   Read the installation guide for upgrade instructions: https://docs.onflow.org/flow-cli/install
+
+
+ Store private key safely and don't share with anyone!
+Private Key              5190285a5e3ba90a0dcd5b2969b4ca842123df90fef52f6d9c45583bbad65979
+Public Key               d86fda1c5d9f99f24d37a785a12f3070547f2eab8e598b3086ad065ea59f9c9dda90927d67dc19ba5038e0bf0ac3cc8e89998af296726239ce0fac46051ed15c
+Mnemonic                 truth innocent escape check high candy humor elegant neglect media game swing
+Derivation Path          m/44'/539'/0'/0/0
