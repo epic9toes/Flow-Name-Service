@@ -1,9 +1,11 @@
- Version warning: a new version of Flow CLI is available (v0.41.2).
-   Read the installation guide for upgrade instructions: https://docs.onflow.org/flow-cli/install
-
-
- Store private key safely and don't share with anyone!
-Private Key              5190285a5e3ba90a0dcd5b2969b4ca842123df90fef52f6d9c45583bbad65979
-Public Key               d86fda1c5d9f99f24d37a785a12f3070547f2eab8e598b3086ad065ea59f9c9dda90927d67dc19ba5038e0bf0ac3cc8e89998af296726239ce0fac46051ed15c
-Mnemonic                 truth innocent escape check high candy humor elegant neglect media game swing
+ Store private key safely and don't share with anyone! 
+Private Key              043f90406eba89339aebe8aa135558690606ed8d0b7d43c9b11a0658d52917b9 
+Public Key               b22a372809b9bad12dba2e37cfb5f3ca2997c272cb0eb8a838d12b511bc70dc68926204add34f98be9b3f5732ffec347ccf9ff8a8146fa45351ad65de94377c8 
+Mnemonic                 idea order curtain expand thing census cargo hour oval punch scrap weekend 
 Derivation Path          m/44'/539'/0'/0/0
+
+
+Domains -> 0xf5b898675587484c (57333093e34dd681befc5210e6c007484d96cb4cccf05d990bf3b30a8b7bd741) 
+
+
+ All contracts deployed successfully
